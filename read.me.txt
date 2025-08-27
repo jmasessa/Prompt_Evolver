@@ -1,0 +1,18 @@
+pip install requests
+python evolver-01.py --model gpt-4o-mini --generation 5 --population 8
+
+=== Generation 1/5 ===
+Current Pareto front size: 3
+
+=== Generation 2/5 ===
+Current Pareto front size: 3
+
+=== Generation 3/5 ===
+Current Pareto front size: 4
+
+=== Generation 4/5 ===
+Current Pareto front size: 3
+
+=== Generation 5/5 ===
+Current Pareto front size: 4
+Done. See run directory and archive.sqlite.

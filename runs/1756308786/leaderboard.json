@@ -1,0 +1,56 @@
+[
+  {
+    "id": "mut-1756309407976-8639",
+    "composite": 0.7222,
+    "compliance": 1.0,
+    "must_coverage": 0.0,
+    "judge": 0.8667,
+    "has_citation": 1.0,
+    "brevity": 0.9889
+  },
+  {
+    "id": "mut-1756309559233-8703",
+    "composite": 0.7167,
+    "compliance": 1.0,
+    "must_coverage": 0.0,
+    "judge": 0.8333,
+    "has_citation": 1.0,
+    "brevity": 1.0
+  },
+  {
+    "id": "mut-fb-1756309220209-6270",
+    "composite": 0.7165,
+    "compliance": 1.0,
+    "must_coverage": 0.0,
+    "judge": 0.8333,
+    "has_citation": 1.0,
+    "brevity": 0.9984
+  },
+  {
+    "id": "mut-fb-1756309135475-8907",
+    "composite": 0.7152,
+    "compliance": 1.0,
+    "must_coverage": 0.0,
+    "judge": 0.8333,
+    "has_citation": 1.0,
+    "brevity": 0.9857
+  },
+  {
+    "id": "mut-1756309369265-8138",
+    "composite": 0.69,
+    "compliance": 1.0,
+    "must_coverage": 0.0,
+    "judge": 0.8667,
+    "has_citation": 0.6667,
+    "brevity": 1.0
+  },
+  {
+    "id": "mut-1756309267473-9436",
+    "composite": 0.69,
+    "compliance": 1.0,
+    "must_coverage": 0.0,
+    "judge": 0.8667,
+    "has_citation": 0.6667,
+    "brevity": 1.0
+  }
+]
